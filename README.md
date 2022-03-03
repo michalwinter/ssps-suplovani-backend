@@ -1,1 +1,0 @@
-# ssps-suplovani-backend
